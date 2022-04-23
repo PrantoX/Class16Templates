@@ -1,0 +1,110 @@
+.header {
+    background-color: rgb(16, 20, 70);
+}
+.header-logo img {
+    width: 240px;
+    padding-left: 100px;
+}
+.header-menu ul {
+    text-align: center;
+    padding-left: 0px;
+    line-height: 117px;
+    margin-bottom: 0px;
+}
+.header-menu ul li {
+    display: inline-block;
+}
+.header-menu ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    padding: 0px 15px;
+}
+.banner {
+    background-image: url("https://i.postimg.cc/V6mWXvFM/intro-bg.jpg");
+    height: 775px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.banner h1 {
+    color: white;
+    padding-bottom: 25px;
+    padding-top: 320px;
+}
+.banner p {
+    font-size: 24px;
+    color: white;
+    padding-bottom: 35px;
+}
+.banner .button a {
+    color: white;
+    text-decoration: none;
+}
+
+.teem{
+    background-color: #bac1f3;
+}
+
+.teem h2 {
+    font-size: 20px;
+}
+.teem p {
+    font-size: 26px;
+}
+.teem a {
+    color: white;
+    text-decoration: none;
+}
+
+.about {
+    background-color: #c2d4ea;
+}
+
+.about .img img {
+    width: 250px;
+}
+
+.about .text {
+    text-align: justify;
+}
+.about .text-1 {
+    padding-left: 30px;
+}
+
+.about .details {
+    font-size: 20px;
+}
+.about .text-2 {
+    padding-right: 30px;
+}
+
+.contact {
+    background-color: #f5f5f5;
+}
+.contact .google-map {
+    padding-left: 110px;
+}
+.contact .form {
+    text-align: justify;
+    padding-left: 160px;
+    border-radius: 5px;
+}
+.contact .form-1 {
+    border-radius: 5px;
+    padding-right: 135px;
+    padding-left: 10px;
+}
+
+.contact a {
+    color: white;
+    text-decoration: none;
+}
+.contact .form-1:focus{
+    outline: none;
+}
+
+.footer{
+    background-color: #0062d3;
+    color: white;
+   font-size: 20px;
+}
